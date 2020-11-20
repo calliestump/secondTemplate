@@ -35,16 +35,27 @@ git remote add origin [repo. link]
 
 ## **Specs**
 
-```
-Describe:
-Test: 
-Expect 
-```
-```
-Describe: 
-Test: 
-Expect 
-```
-
+<details>
+<summary>Expand Specs</summary>
+<table>
+  <tr>
+    <th>Test</th>
+    <th>Input</th>
+    <th>Output</th>
+    <th>Completed</th>
+  </tr>
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>    
+  <tr>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>  
 ## Legal
 Copyright (c) 2020 Callie Stump
