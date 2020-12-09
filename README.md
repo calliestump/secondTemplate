@@ -4,10 +4,10 @@
 
 ## By _Callie Stump_
 ---
-## **Description**
+## 🚩 **Description**
 
 
-## **Setup**
+## 🔧 **Setup**
 1. Copy this download link: 
 2. Open bash and go to the directory where you would like to store your cloned project.
 3. Clone the repo.
@@ -32,6 +32,8 @@ git remote add origin [repo. link]
 * 
 * 
 * 
+
+## 🐛 Known Bugs
 
 ## **Specs**
 
